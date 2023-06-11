@@ -1,6 +1,6 @@
 # analog-encryption
 
-- `direct_encrypt.py` and `direct_encrypt.ipynb` contains experiments of directly encrypting analog signals.
+- `direct_encryption.py` and `direct_encryption.ipynb` contains experiments of directly encrypting analog signals.
 
 - `packet.py` contains a implmentation of encrypted packet format.
 
